@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Estudar React Native",
+      "description": "Revisar conceitos de navegação e estado",
+      "done": false,
+      "createdDate": "2025-01-15T10:00:00.000Z",
+      "completedDate": null
+    },
+    {
+      "id": 2,
+      "name": "Implementar Redux Toolkit",
+      "description": "Configurar store e slices para gerenciamento de estado",
+      "done": true,
+      "createdDate": "2025-01-14T09:30:00.000Z",
+      "completedDate": "2025-01-14T15:45:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Configurar JSON Server",
+      "description": "Implementar API local para desenvolvimento",
+      "done": false,
+      "createdDate": "2025-01-15T11:15:00.000Z",
+      "completedDate": null
+    }
+  ]
+}
